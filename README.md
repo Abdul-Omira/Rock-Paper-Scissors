@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors
-This a quick Rock Paper Scissors Game created using HTML/CSS/JS 
+This a quick Rock Paper Scissors Game created using HTML/CSS/JS on a train Trip
