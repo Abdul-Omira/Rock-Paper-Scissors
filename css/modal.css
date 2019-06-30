@@ -1,5 +1,5 @@
 :root {
-  --primary-color: #447ebc;
+  --primary-color: #fa8142;
   --dark-color: #7f7a85;
   --light-color: #f4f4f4;
   --lose-color: #fc0404;
@@ -21,7 +21,7 @@
 
 .modal-content {
   background: #ecf3f3;
-  /* color: #ecf3f3; */
+  color: #929292;
   text-align: center;
   margin: 10% auto;
   width: 350px;

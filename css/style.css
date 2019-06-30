@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
 
 :root {
-  --primary-color: #447ebc;
-  --dark-color: #7f7a85;
+  --primary-color: #fa8142;
+  --dark-color: #c1c1c1;
   --light-color: #f4f4f4;
   --lose-color: #fc0404;
   --wine-color: #a4cc8c;
@@ -16,8 +16,8 @@
 body {
   font-family: 'Lato', sans-serif;
   line-height: 1.6;
-  background: #e5e9f5;
-  color: #7f7a85;
+  background: #070707e7;
+  color: #c1c1c1;
 }
 .container {
   max-width: 1100px;
@@ -29,7 +29,7 @@ body {
 .restart-btn {
   display: none;
   background: var(--light-color);
-  color: #7f7a85;
+  color: #929292;
   padding: 0.4rem 1.3rem;
   font-size: 1rem;
   cursor: pointer;
@@ -38,7 +38,7 @@ body {
   margin-bottom: 1rem;
 }
 .restart-btn:hover {
-  background: var(--primary-color);
+  background: #fa8142;
   color: #f4f4f4;
 }
 .header {
@@ -57,7 +57,7 @@ body {
   color: #f4f4f4;
 }
 .score p:first-child {
-  background: var(--primary-color);
+  background: #fa8142;
 }
 .score p:last-child {
   background: var(--dark-color);
@@ -74,7 +74,7 @@ body {
   cursor: pointer;
 }
 .choice:hover {
-  color: #8abcf6;
+  color: #fb9865;
 }
 .text-win {
   color: var(--wine-color);
