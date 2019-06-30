@@ -68,6 +68,7 @@ body {
   grid-gap: 2rem;
   margin-top: 3rem;
   text-align: center;
+  font-size: 10em;
 }
 .choice {
   cursor: pointer;
