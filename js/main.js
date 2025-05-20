@@ -109,7 +109,7 @@ function clearModal(e) {
   }
 }
 
-// Restart Gmae
+// Restart Game
 
 function restartGame() {
   restart.style.display = 'none';
@@ -120,6 +120,8 @@ function restartGame() {
   <p>Computer: 0</p>
 
   `;
+  // Close any open modal when restarting
+  modal.style.display = 'none';
 }
 // Event listenes
 choices.forEach(choice => choice.addEventListener('click', play));
